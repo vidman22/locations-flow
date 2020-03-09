@@ -1,0 +1,132 @@
+const PrimaryCareProviders = [
+    
+    {
+        name:'Puneet Bhalrhu',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/06/PuneetBhalrhu-1024x1024.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/puneet-bhalrhu-md/',
+        inNetwork: true,
+    },
+    {   
+        name:'Madalasa Bista',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/10/DrBista500x500.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/madalasa-bista-m-d/', 
+        inNetwork: true,
+    },
+    {   
+        name:'Edward Brantz',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider2.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/dr-edward-brantz/',
+        inNetwork: true,
+    },
+    {   
+        name:'Robert Brunst',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/12/RobertBrunst500x500.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/robert-brunst-m-d/',
+        inNetwork: true,
+    },
+    {   
+        name:'William Buchner',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/06/Dr.-Buchner-Main.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/william-buchner-m-d/',
+        inNetwork: true,
+    },
+    {   
+        name:'Nicholas Canelo',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/06/Canelo500x500-1-1.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/nicholas-canelo-m-d/',
+        inNetwork: true,
+    },
+    {   
+        name:'Ilan Kuperman',
+        img: ' https://perlmanclinic.com/wp-content/uploads/2019/06/Ilan-Kuperman-Final-500-by-500.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/ilan-kuperman-md/',
+        inNetwork: true,
+    },
+    {   
+        name:'Paul Marquis',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2020/01/Marquis500x500.jpeg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/paul-marquis-m-d/',
+        inNetwork: true,
+    },
+    {   
+        name:'ChristyAnne Maxson',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/06/ChristyanneMaxsonPhoto.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/christyanne-maxson-m-d/',
+        inNetwork: true,
+    },
+    {   
+        name:'Seymour Myers',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/06/dr-3-perlman-clinic.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/seymour-myers-m-d/',
+        inNetwork: true,
+    },
+    {   
+        name:'Kenneth Ortiz',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/06/KennethOrtizMD.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/kenneth-ortiz-m-d/',
+        inNetwork: true,
+    },
+    {   
+        name: 'Emilia Parrott',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/06/DrParrott.jpg',
+        type: 'DO',
+        src: 'https://perlmanclinic.com/ourteam/emilia-parrott-do/',
+        inNetwork: true,
+    },
+    {   
+        name:'Monica Perlman',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider9.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/dr-monica-perlman/',
+        inNetwork: true,
+    },
+    {   
+        name:'Mirza Raheem',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2020/01/Raheem500x500.jpeg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/mirza-raheem-m-d/',
+        inNetwork: true,
+    },
+    {   
+        name:'Youstina Soliman',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/11/DrSoliman500x500.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/youstina-soliman-m-d/',
+        inNetwork: true,
+    },
+    {   
+        name:'Anna Stern',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/06/annastern-jessica.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/anna-stern-m-d/',
+        inNetwork: true,
+    },
+    {   
+        name:'Susan Taylor',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/06/Susan-Taylor-MD-Main-Jessica.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/susan-taylor-m-d/',
+        inNetwork: true,
+    },
+    {   
+        name:'Rhodaline Tootell',
+        img: 'https://perlmanclinic.com/wp-content/uploads/2019/06/RhodalineTootell500x500MAIN.jpg',
+        type: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/rhodaline-tootell-m-d/',
+        inNetwork: true,
+    }
+
+];
+
+export default PrimaryCareProviders;
